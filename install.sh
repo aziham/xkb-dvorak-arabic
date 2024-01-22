@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # 
 # This script adds the Arabic Dvorak layout to the ara XKB configuration
 #  file. Dry-run patches are attempted on both files before actually
